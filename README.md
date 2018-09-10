@@ -1,5 +1,5 @@
 
-# AI Genomics Hackathon Resources
+# NF2 Genomics Hackathon Resources
 
 On June 23rd, SVAI + Accel.ai + NF2 Project, are kicking off our first AI Genomics hackathon at Google Launchpad in San Francisco. This event focusses on analyzing Genomic data and research publications using AI and other computational methods. We have a special opportunity to work with patient data from an ongoing medical case, provided by Onno Faber, a serial entrepreneur and NF2 Patient.
 
